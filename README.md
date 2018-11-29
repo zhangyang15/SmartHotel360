@@ -1,6 +1,8 @@
 
 # SmartHotel360 - E2E Reference Sample and Azure Backend
 
+[![Build Status](https://dev.azure.com/zhangyang15/SmartHotel/_apis/build/status/SmartHotel_Petchecker-Web)](https://dev.azure.com/zhangyang15/SmartHotel/_build/latest?definitionId=11)
+
 <p align="center">
 <img src="docs/SmartHotel360_ReferenceApps.png "/>
 </p>
